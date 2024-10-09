@@ -27,11 +27,11 @@ public class Main {
                 Tamagotchi.teach(word);
             }
 
-            else if (doWhat.equals("2"));{
+            else if (doWhat.equals("2")){
                 Tamagotchi.speak();
             }
 
-            else if (doWhat.equals("3"));{
+            else if (doWhat.equals("3")){
 
             }
         }
